@@ -11,6 +11,22 @@ Download the project: Ensure all .png files and flybird.java are in the same fol
 Compile the game:
 
 javac flybird.java
+
 java flybird
+
+🎮 Controls
+Spacebar: Jump / Start Game / Restart after Game Over.
+
+🛠️ Features
+Physics Engine: Realistic gravity and upward thrust (velocity).
+
+Infinite Pipes: Procedurally generated pipes with varying heights.
+
+Collision Detection: Precise AABB bounding box collision.
+
+Score Tracking: Real-time scoring system.
+
+Responsive Graphics: Uses high-quality pixel art assets.
+
 
 
