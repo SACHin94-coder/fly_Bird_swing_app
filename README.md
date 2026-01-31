@@ -28,5 +28,15 @@ Score Tracking: Real-time scoring system.
 
 Responsive Graphics: Uses high-quality pixel art assets.
 
+📁 Project Structure:
+flybird/
+│
+├── flybird.java          # Main source code
+├── bird.png              # Bird sprite
+├── flappybirdbg.png      # Background image
+├── toppipe.png           # Top obstacle
+└── bottompipe.png        # Bottom obstacle
+
+
 
 
